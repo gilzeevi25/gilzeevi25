@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gil Zeevi
-- 👀 I’m interested in Data Science in general and Computer Vision in particular
+- 👀 I’m interested in Data Science and particulary in Recommending systems | NLP
 - 🌱 I’m currently learning Master studies at IDC, majoring in Data science and machine learning
-- 💞️ I’m looking to collaborate on any interesting project
+- 💞️ I’m looking to assist to open source project by any means
 - 📫 You can reach me by email - gilsmol91@gmail.com
